@@ -159,7 +159,7 @@
 
 ### REL-01 / REL-02
 
-- [ ] GitHub首次上传：已获用户授权并初始化 `main`、绑定 `https://github.com/Nuxoul/NxMonitor.git`；提交推送后核对远端哈希。
+- [x] GitHub首次上传：已按用户授权初始化并推送 `main` 至 `https://github.com/Nuxoul/NxMonitor.git`；首次提交 `085b8dc` 已核对远端哈希一致。
 - [ ] Windows CI执行fmt/tests/clippy/build；桌面/ETW实测不得被headless CI冒充。
 - [ ] 选择自身开源许可，核对完整依赖/字体/文档通知；不因`publish=false`认为完成许可审计。
 - [ ] 打包helper获取/分发策略、干净机器启动和卸载/启动项清理；不提交本机EXE/PDB/配置/trace。
