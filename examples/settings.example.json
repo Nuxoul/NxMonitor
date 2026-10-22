@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "mode": "Manual",
+  "manual_path": null,
+  "blacklist": [],
+  "english": false,
+  "graphy": false,
+  "presentmon_path": "tools\\PresentMon-2.6.0-x64.exe"
+}

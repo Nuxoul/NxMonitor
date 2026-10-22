@@ -1,0 +1,23 @@
+{
+  "phase": "technical-spike-not-full-v1",
+  "os": "Windows 10 Pro 22H2 10.0.19045 x64",
+  "elevatedToken": false,
+  "rust": "1.96.0-x86_64-pc-windows-msvc",
+  "gpuiKit": "0.8.0",
+  "presentMon": "2.6.0-x64",
+  "checks": {
+    "format": "passed",
+    "lockedAllTargetTests": { "passed": 12, "failed": 0 },
+    "lockedClippyDenyWarnings": "passed",
+    "lockedBuildBothBins": "passed",
+    "zeroFrameCli": "expected nonzero exit with No target frames received",
+    "modernEnglishNativeOverlay": "passed",
+    "graphyChineseLiveOverlay": "passed",
+    "clickThroughEditRelockGlobalQuit": "passed",
+    "ownedHelperAndEtwCleanup": "passed"
+  },
+  "liveTarget": "RobloxStudioBeta.exe",
+  "finalDesktopLiveCapture": { "received": 392, "rejected": 0, "error": null },
+  "knownBackgroundPixel": { "modern": [31, 32, 32], "graphy": [78, 79, 81] },
+  "notVerified": ["Windows 11", "borderless fullscreen game", "exclusive fullscreen", "anti-cheat compatibility", "multiple displays and DPI", "release performance"]
+}

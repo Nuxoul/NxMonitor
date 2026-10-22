@@ -1,0 +1,13 @@
+/target/
+/tools/PresentMon*.exe
+/.learnings/
+*.etl
+*.csv
+
+# Machine-local development settings and diagnostics (examples/ stays tracked).
+/local/
+/tools/*.download
+*.log
+.env
+.env.*
+!.env.example

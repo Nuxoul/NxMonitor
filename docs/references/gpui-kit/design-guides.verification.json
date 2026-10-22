@@ -1,0 +1,15 @@
+{
+  "name": "design-guides",
+  "htmlBytes": 139209,
+  "markdownBytes": 45253,
+  "headings": 37,
+  "codeBlocks": 0,
+  "htmlSha256": "e700bcbaf7c9963e1a620f570feb73e6410abb4746689302a3bd8d12bf85a1dd",
+  "verified": {
+    "headings": 37,
+    "codeBlocks": 0,
+    "tableRows": 33,
+    "imageLinks": 4,
+    "noSiteScripts": true
+  }
+}

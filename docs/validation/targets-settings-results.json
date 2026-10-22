@@ -1,0 +1,26 @@
+{
+  "phase": "targets-settings-not-full-v1",
+  "platform": "Windows 10 Pro 22H2 19045 x64",
+  "checks": {
+    "format": "passed",
+    "lockedSerialAllTargetTests": { "passed": 20, "failed": 0 },
+    "clippyDenyWarnings": "passed",
+    "desktopBuild": "passed",
+    "manualLockRealTarget": "passed",
+    "blacklistSaveAndAutomaticForegroundExclusion": "passed",
+    "manualOverrideConfirmationAndCancel": "passed",
+    "autoToManualRequiresFreshSelection": "passed",
+    "languageStylePersistence": "passed",
+    "captureResetNewSession": "passed",
+    "automaticForegroundFollow": "passed",
+    "settingsPreserveActiveAutomaticTarget": "passed",
+    "restartRestoreWithoutPidRelock": "passed",
+    "invalidConfigPreservedWithoutAutoCapture": "passed",
+    "gracefulHelperAndEtwCleanup": "passed"
+  },
+  "realTarget": "RobloxStudioBeta.exe",
+  "automaticRunReceived": 6276,
+  "finalManualUiRunReceived": 444,
+  "defaultUserConfigModifiedByTests": false,
+  "remaining": ["memory and device information", "system audio", "tray and startup", "full Graphy visual integration", "unbounded sessions", "Windows 11 and fullscreen compatibility"]
+}

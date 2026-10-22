@@ -1,0 +1,15 @@
+{
+  "name": "coding-guides",
+  "htmlBytes": 169782,
+  "markdownBytes": 45868,
+  "headings": 37,
+  "codeBlocks": 12,
+  "htmlSha256": "7ac43dd83e9e6283d73ca89bb6015246dd56db1d0d79787d4394ae78051e15cd",
+  "verified": {
+    "headings": 37,
+    "codeBlocks": 12,
+    "tableRows": 16,
+    "imageLinks": 2,
+    "noSiteScripts": true
+  }
+}
